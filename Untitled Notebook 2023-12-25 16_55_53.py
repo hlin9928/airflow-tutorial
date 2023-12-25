@@ -10,4 +10,4 @@
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC select * from test2
+# MAGIC select * from test23
