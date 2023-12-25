@@ -6,3 +6,6 @@
 
 # MAGIC %sql
 # MAGIC select * from test
+
+# MAGIC %sql
+# MAGIC select * from test2
